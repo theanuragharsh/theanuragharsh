@@ -31,10 +31,11 @@ I'm a Software Engineer with a passion for coding and skill development.<br> <br
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanuragharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="theanuragharsh" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theanuragharsh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="theanuragharsh" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theanuragharsh&theme=nightowl&hide_border=false" /></p>
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=theanuragharsh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theanuragharsh&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theanuragharsh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
