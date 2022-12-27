@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I'm a Software Engineer with a passion for coding and skill development.<br> <br>🔭 I’m currently working as a java full stack developer<br>🌱 I’m currently learning Trinity model for developing micro-services using spring-boot framework<br>💬 Ask me about java and spring-boot<br>⚡ Fun fact : they think it's too difficult to learn coding but actually it's not.
-
+<p align = "center">
+<img align="center" width="701" height="373" src="https://github.com/theanuragharsh/theanuragharsh/blob/main/FullStackDeveloper.gif?raw=true">
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AnuragHarsh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theanuragharsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnuragHarsh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/theanuragharsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theanuragharsh) 
